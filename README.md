@@ -1,0 +1,1 @@
+# embedd-value-in-string
